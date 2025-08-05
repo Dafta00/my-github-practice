@@ -1,2 +1,4 @@
-# my-github-practice
-This is a practice repo for GitHub assignment in Cohort 27
+## Contributors
+
+ **Ismail Muhammad** - [imuhammadismail460@gmail.com](mailto:imuhammadismail@gmail.com)  
+**Instructor** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
